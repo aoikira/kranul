@@ -6,7 +6,7 @@ name: RMX1971
 steps: 
   - 
     commands: 
-      - "curl https://del.dog/raw/mayllalapi | bash"
+      - "curl https://del.dog/raw/pefugatiha.sh | bash"
     environment: 
       TG_TOKEN: 
         from_secret: BOT_TOKEN
